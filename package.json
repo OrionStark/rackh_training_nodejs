@@ -1,0 +1,19 @@
+{
+  "name": "nodetraining",
+  "version": "1.0.0",
+  "description": "RackH Developer Training",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robby Muhammad Nst",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.17",
+    "socket.io": "^2.2.0",
+    "validator": "^10.11.0"
+  }
+}
